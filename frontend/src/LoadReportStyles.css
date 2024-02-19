@@ -1,0 +1,12 @@
+.highlight {
+    background-color: rgba(255, 255, 0, 0.5); /* Yellow background with opacity */
+    color: black; /* Initial text color */
+    transition: background-color 0.150ms ease; /* Smooth transition for background color */
+  }
+  
+  .highlight:hover {
+    background-color: rgba(212, 212, 0, 0.8); /* Darker yellow on hover with opacity */
+    color: black; /* Keep text color black on hover */
+    transition: background-color 0.150ms ease; /* Smooth transition for background color */
+  }
+  

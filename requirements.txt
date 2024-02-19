@@ -1,0 +1,13 @@
+#You are recommended to create a virtual environment before running the code. 
+#See how to here: https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/
+
+#UNIX Commands to run after activating the virtual environment:
+openai 
+azure-cognitiveservices-vision-computervision 
+azure-ai-textanalytics==5.2.0
+flask 
+flask-cors
+google-cloud-storage
+pathlib
+python-dotenv
+pillow
