@@ -3,6 +3,10 @@ A web-app that uses AI to analyse medical reports, using OCR and GPT technologie
 
 Copyright © NTURejects 2024
 
+Front-end & Back-end Developer : @itsme-zeix https://github.com/itsme-zeix
+Front-end & Back-end Developer : @ZShunRen https://github.com/ZShunRen
+Front-end Developer & Graphics Designer: @Kantosaurus https://github.com/Kantosaurus
+
 All rights reserved.
 
 This software and its accompanying documentation are protected by copyright law. Unauthorized reproduction, distribution, or modification of this software, or any portion of it, may result in severe civil and criminal penalties and will be prosecuted to the maximum extent possible under the law.
